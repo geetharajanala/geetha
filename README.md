@@ -14,4 +14,12 @@ _good afternoon
 <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunflower-1508785046.jpg" width="500" height="500">
 :smily
 :smile:
+<hr>
+
+
+how to initialize github project
+-  [ ] git add .
+-  [ ] git remote
+-  [ ] git push
+
   

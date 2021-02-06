@@ -12,3 +12,7 @@ _good afternoon
 
 <img src="https://images.pexels.com/photos/658687/pexels-photo-658687.jpeg?cs=srgb&dl=pexels-cindy-gustafson-658687.jpg&fm=jpg" width="500" height="500">
 <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunflower-1508785046.jpg" width="500" height="500">
+sno| name| college
+----|----|----
+1|bhanu|sacet
+2|sree|sacet
